@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683384367 source:/home/steve/Documents/reverse/main.c
+	<arpa/inet.h>
+	<fcntl.h>
+	<netinet/in.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<unistd.h>
+	<errno.h>
+
